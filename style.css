@@ -1,9 +1,9 @@
 :root{
-    --color1: #f0904c;
-    --color2: #f7dfb3;
-    --color3: #b53b3b;
-    --color4: #d95d3a;
-    --color5: #000000;
+    --color1: #4cf078;
+    --color2: #b3f7c3;
+    --color3: #3bb557;
+    --color4: #3ad962;
+    --color5: #076910;
 }
 
 *{
@@ -75,7 +75,7 @@ header a.nav-link:hover{
 .contenedor-imagenes .imagen img{
     width: 200px;
     transition: transform 0.5s ease-in-out;
-    filter: drop-shadow(-2px 2px 15px #000000)
+    filter: drop-shadow(-2px 2px 15px #509731)
 }
 
 .contenedor-imagenes .imagen:hover img {
